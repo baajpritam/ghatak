@@ -1,1 +1,1 @@
-print(" Jai Shree RadheShayam ")
+print("Jai Shree RadheShayam")
